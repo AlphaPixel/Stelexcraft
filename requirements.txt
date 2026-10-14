@@ -1,0 +1,4 @@
+numpy
+numba
+moderngl
+pygame-ce
